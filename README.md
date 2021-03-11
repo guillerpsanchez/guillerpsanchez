@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/guillerpsanchez?template=classic&activity=1&introduction=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&config.timezone=Europe%2FMadrid)
+[![Metrics](https://metrics.lecoq.io/guillerpsanchez?template=classic&config.timezone=Europe%2FMadrid)](https://github.com/guillerpsanchez)
+
 
 
 <!--
