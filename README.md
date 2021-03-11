@@ -1,4 +1,4 @@
-![Linkedin](https://img.shields.io/badge/Linkedin-Guillermo%20Pe%C3%B1arando%20S%C3%A1nchez-blue)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Guillermo%20Pe%C3%B1arando%20S%C3%A1nchez-blue)](https://www.linkedin.com/in/guillerpsanchez/)
 
 [![Metrics](https://metrics.lecoq.io/guillerpsanchez?template=classic&config.timezone=Europe%2FMadrid)](https://github.com/guillerpsanchez)
 
